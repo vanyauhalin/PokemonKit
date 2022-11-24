@@ -1,0 +1,6 @@
+[submodule "PokemonKitGenerator/api-data"]
+	path = PokemonKitGenerator/api-data
+	url = https://github.com/PokeAPI/api-data.git
+[submodule "PokemonKitGenerator/pokeapi.co"]
+	path = PokemonKitGenerator/pokeapi.co
+	url = https://github.com/PokeAPI/pokeapi.co.git
